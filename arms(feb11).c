@@ -2,8 +2,8 @@
 #include<conio.h>
 int main()
 {
-int n,m,i,j,rem;
-scanf("%d %d",&n,&m);
+    int n,m,i,j,rem;
+   scanf("%d %d",&n,&m);
 for(i=n;i<m;i++)
 {
 int p=i,sum=0;
