@@ -1,4 +1,5 @@
 #include <stdio.h>
+#included<conio.h>
 int main(void) 
 {
 	int sh,sm,eh,em; 
