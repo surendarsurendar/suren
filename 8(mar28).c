@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include<conio.h>
 int main(void) 
 {
 	int i,n,array[50],sum=0,avg;
